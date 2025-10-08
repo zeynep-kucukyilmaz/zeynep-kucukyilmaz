@@ -27,7 +27,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: [kckylmzzeynep@gmail.com](mailto:kckylmzzeynep@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/zeynep-kücükyılmaz-b3a0832b5)
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="zeynep-kücükyılmaz" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/zeynep-k%C3%BCc%C3%BCky%C4%B1lmaz/tr?trk=profile-badge">Zeynep Kücükyılmaz</a></div>
               
 
 ---
@@ -59,3 +59,5 @@
 <p align="center">
   <em>"Strive for progress, not perfection."</em>
 </p>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
