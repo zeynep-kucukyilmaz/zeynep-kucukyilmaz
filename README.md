@@ -48,7 +48,10 @@
 
 ### 📊 LeetCode Stats 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/zeynep-kucukyilmaz?theme=dark&font=Roboto&ext=activity)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/zeynep-kucukyilmaz?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Heatmap" />
+</p>
+
 
 ---
 
