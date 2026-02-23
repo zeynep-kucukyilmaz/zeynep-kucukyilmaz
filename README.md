@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Zeynep 👋!<h1>
 <p align="center">
-<i> I am a first-year Computer Engineering student at Marmara University. I have worked on small projects using C++, C#, SQL, HTML, and Java. I am continuously improving myself and developing new projects.  </i>
+<i> I am a Computer Engineering student at Marmara University. I have worked on small projects using C++, C#, SQL, HTML, and Java. I am continuously improving myself and developing new projects.  </i>
 </p>
 
 ---
