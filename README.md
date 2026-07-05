@@ -39,8 +39,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynep-kucukyilmaz&show_icons=true&theme=radical" alt="Zeynep's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynep-kucukyilmaz&layout=compact&theme=radical" alt="Top Languages" />
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zeynep-kucukyilmaz&show_icons=true&theme=radical" alt="Zeynep's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeynep-kucukyilmaz&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
