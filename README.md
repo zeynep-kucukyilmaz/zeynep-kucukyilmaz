@@ -32,7 +32,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeynep-kucukyilmaz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-nu.vercel.app/?username=zeynep-kucukyilmaz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
